@@ -1,13 +1,26 @@
-Instituição: Unimar
-Curso: Analise e Desenvolvimento de Sistemas
-Termo: 3°
+<h1>Produdesk</h1>
+Status: Em desenvolvimento ⚠️
 
-Nomes:
-Hugo Yudy Hiraishi
-Marcela Kawamoto Fernandes
-Michelle Emilia Teixeira
+#### Instituição: Unimar
+#### Curso: Analise e Desenvolvimento de Sistemas
+#### Termo: 3°
 
-Breve descrição projeto - Produdesk
+## Nomes:
++ Hugo Yudy Hiraishi
++ Marcela Kawamoto Fernandes
++ Michelle Emilia Teixeira
+
+#### Tecnologias usadas:
+
+<table>
+  <tr>
+    <td>Html</td>
+    <td>Css</td>
+    <td>JavaScript</td>
+  </tr>
+</table>
+
+## Breve descrição projeto 
 
 1- Dashboard_Produdesk - Tela principal do projeto.
 
